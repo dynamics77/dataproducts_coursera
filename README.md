@@ -7,13 +7,15 @@ Overall, it is a very simple application that I have developed as a learning exe
 Here is the online link to app:
 https://dynamics77.shinyapps.io/stockApp
 
+###Possible extensions to the app
+Clearly, app is quite limited as it is implemented currently. Many other important features related to the stock performance can be computed that in turn can guide the investment in the stock! One exciting possibilty to improve the app would be to add an ability to compare stocks with each other or overall market trend for the choosen time period. 
+
+
 ###How do I use the app?
 Instructions to use the app are quite self-explanatory. But briefly, simply connect to the 
 app at https://dynamics77.shinyapps.io/stockApp 
 
 Once connected to the app, enter a stock symbol in the box. Then choose the time period to display. Finally, press "Update View"" botton. Do not forget to press the  "Update View"" botton every time you make any changes to the date or choose another stock symbol.
 Here are some stock symbols to get started TWTR, AAPL, WFM, SBUX". 
-
-
 
 
